@@ -1,6 +1,6 @@
-######## Afe Temidayo - FullStack Developer (Frontend Heavy)
+### Afe Temidayo - FullStack Developer (Frontend Heavy)
 
-### Hi there 👋 Hi there 👋, My name is Temidayo Afe, a fullstack developer. Welcome to my GitHub profile!
+### Hi there 👋, My name is Temidayo Afe, a fullstack developer. Welcome to my GitHub profile!
 
 
 # 💫 About Me:
