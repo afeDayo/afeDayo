@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Highly motivated and recently graduated Full Stack Web Developer, offering a dynamic skill set honed through experience as a Digital Strategist. I have spent time converting designs into pixel-perfect, performant, accessible and responsive applications/websites. You can simply describe me as a front end developer addict.
+Highly motivated Full Stack Web Developer, offering a dynamic skill set honed through experience as a Digital Strategist. I have spent time converting designs into pixel-perfect, performant, accessible and responsive applications/websites. You can simply describe me as a front end developer addict.
 
 
 ## 🌐 Socials:
